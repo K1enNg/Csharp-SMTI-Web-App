@@ -1,0 +1,37 @@
+﻿@model FinalExam3.Models.Student
+
+<h2>Welcome, @Model.FirstName @Model.LastName</h2>
+
+<h3>Your Registered Courses</h3>
+@if (!Model.Registerations.Any())
+{
+    <p>You have not registered for any courses yet.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Course Title</th>
+                <th>Total Hours</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var registration in Model.Registerations)
+            {
+                <tr>
+                    <td>@registration.CourseNumberNavigation.CourseTitle</td>
+                    <td>@registration.CourseNumberNavigation.TotalHour</td>
+                    <td>
+                        <a href="@Url.Action("CancelRegistration", new { courseNumber = registration.CourseNumber })" class="btn btn-danger">
+                            Cancel
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a href="@Url.Action("AvailableCourses", "Students")" class="btn btn-primary">Register for New Courses</a>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\views\\students\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\views\\students\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\views\\students\\availablecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\views\\students\\availablecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\controllers\\accountscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\controllers\\accountscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|c:\\lasallecollege\\courses\\5th_semester\\web_server_application\\finalexam3\\finalexam3\\models\\finalexam3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339D3743-80B1-42D4-8047-865EA729A421}|FinalExam3\\FinalExam3.csproj|solutionrelative:finalexam3\\models\\finalexam3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Views\\Students\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FinalExam3\\Views\\Students\\Dashboard.cshtml",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Views\\Students\\Dashboard.cshtml",
+              "RelativeToolTip": "FinalExam3\\Views\\Students\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:38:57.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvailableCourses.cshtml",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Views\\Students\\AvailableCourses.cshtml",
+              "RelativeDocumentMoniker": "FinalExam3\\Views\\Students\\AvailableCourses.cshtml",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Views\\Students\\AvailableCourses.cshtml",
+              "RelativeToolTip": "FinalExam3\\Views\\Students\\AvailableCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:38:41.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "FinalExam3\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "FinalExam3\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:35:57.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "FinalExam3\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "FinalExam3\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:35:31.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountsController1.cs",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Controllers\\AccountsController1.cs",
+              "RelativeDocumentMoniker": "FinalExam3\\Controllers\\AccountsController1.cs",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Controllers\\AccountsController1.cs",
+              "RelativeToolTip": "FinalExam3\\Controllers\\AccountsController1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:35:03.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalExam3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalExam3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T15:34:20.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalExam3\\appsettings.json",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\appsettings.json",
+              "RelativeToolTip": "FinalExam3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAC9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:33:47.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Program.cs",
+              "RelativeDocumentMoniker": "FinalExam3\\Program.cs",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Program.cs",
+              "RelativeToolTip": "FinalExam3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:33:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinalExam3Context.cs",
+              "DocumentMoniker": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Models\\FinalExam3Context.cs",
+              "RelativeDocumentMoniker": "FinalExam3\\Models\\FinalExam3Context.cs",
+              "ToolTip": "C:\\LaSalleCollege\\Courses\\5TH_SEMESTER\\WEB_SERVER_APPLICATION\\FinalExam3\\FinalExam3\\Models\\FinalExam3Context.cs",
+              "RelativeToolTip": "FinalExam3\\Models\\FinalExam3Context.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:33:07.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
